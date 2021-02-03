@@ -1,3 +1,7 @@
+### `npm install` 
+
+To install all the package
+
 ## Available Scripts
 
 In the project directory, you can run:
